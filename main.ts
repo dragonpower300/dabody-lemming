@@ -1,5 +1,6 @@
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
     info.changeScoreBy(1)
+    tiles.setTileAt(location, assets.tile`myTile4`)
 })
 game.splash("pak de chocopotten, koop wapens en vecht.")
 tiles.setCurrentTilemap(tilemap`level1`)
@@ -30,5 +31,4 @@ let beer = sprites.create(img`
     ....feef....feef.......
     ....ffff....ffff.......
     `, SpriteKind.Enemy)
-info.setScore(0)
 scene.cameraFollowSprite(mySprite)
