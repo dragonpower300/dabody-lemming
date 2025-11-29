@@ -1,1 +1,5 @@
 game.splash("pak de chocopotten, koop wapens en vecht.")
+tiles.setCurrentTilemap(tilemap`level1`)
+let mySprite = sprites.create(assets.image`lemming`, SpriteKind.Player)
+controller.moveSprite(mySprite)
+scene.cameraFollowSprite(mySprite)
