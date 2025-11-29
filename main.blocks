@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="):H0w!wVDt{_1m5;y,?/" x="0" y="0"></block><block type="screen_image_picker" id="kar*m0.+G-cvot5^3QOt" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="24" y="218"><field name="img">assets.image`lemming`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></block><block type="screen_image_picker" id="giHMQl/_u8G*[qgzy;k_" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="130" y="216"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></block></xml>

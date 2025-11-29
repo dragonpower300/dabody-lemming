@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQRABgAAAAAAADw//8PAAD//wAA////mZn/AP+f+Q/wn/mZmZn5/5+Zmf/w2Z2ZmZmZn5mZmfnw2Z2ZmZmZmZmZ2f3wn5mZH5mZmZnZ3f0A/5+Z/5mZmZnd3f0AAJ+ZmZ+Zmdnd3f0AAJ+Zmf+Zmdnd3f0AAJ+ZmZ+Zmdnd3f0A/5+ZH5mZmZnd3f3wn5mZ/5mZmZnZ3f3w2Z2ZmZmZmZmZ2f3w2Z2ZmZmZn5mZmfnwn/mZmZn5/5+Zmf8A////mZn/AP+f+Q8AAADw//8PAAD//wA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "lemming"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
